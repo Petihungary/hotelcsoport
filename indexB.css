@@ -1,0 +1,45 @@
+body{
+    background-image: url(back.jpg);
+    
+}
+
+h1{
+    text-align: center;
+    font-size: 65px;
+    font-family:Bodoni MT
+}
+
+
+.img2{
+    float:right;
+    top:100px;
+    
+}
+
+.valami{
+    float:bottom;
+    float: left;
+}
+
+h2{
+    font-size: 40px;
+    font-family:Bodoni MT
+}
+
+
+.betu{
+    font-size:25px;
+}
+
+p{
+    font-size:25px;
+}
+
+
+.table{
+    float:left;
+    left:1px;
+}
+#table{
+    float: left;
+}

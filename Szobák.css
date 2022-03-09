@@ -1,0 +1,28 @@
+body{
+    background: url(back.jpg);
+}
+
+h1{
+    text-align:center;
+    font-size: 65px;
+}
+
+p{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#kép2{
+    float: right;
+}
+
+li{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+}
